@@ -20,6 +20,15 @@ Crystal structures for the kesterite and stannite forms of Cu2ZnSnS4 (CZTS). The
 - "Wurtzite-derived polytypes of kesterite and stannite quaternary chalcogenide semiconductors" [Physical Review B (2010)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.82.195203)
 - "Ab initio thermodynamic model of Cu2ZnSnS4" [Journal of Materials Chemistry A (2014)](http://pubs.rsc.org/en/Content/ArticleLanding/2014/TA/c4ta00892h#!divAbstract)
 
+MOFs
+------
+Crystal structures of a range of metal-organic frameworks. 
+
+###### MIL-125: The structure reported by Dan Hardi et al. in 2009 (DOI: 10.1021/ja903726m) from X-ray diffraction contained no hydrogen positions. Multiple configurations were tested, with the final structure (Ti16C96O72H56) resulting in a large electronic band gap.
+
+#####Used in
+- "Engineering the Optical Response of the Titanium-MIL-125 Metal–Organic Framework through Ligand Functionalization" [Journal of the American Chemical Society (2013)](http://pubs.acs.org/doi/abs/10.1021/ja405350u) 
+- "Photostimulated Reduction Processes in a Titania Hybrid Metal–Organic Framework" [ChemPhysChem (2010)](http://onlinelibrary.wiley.com/doi/10.1002/cphc.201000306/abstract)
 
 Spinels
 ------
