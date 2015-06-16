@@ -3,7 +3,7 @@
 A collection of crystal structures from first-principles simulations of functional materials.
 
 BiVO4
-=====
+------
 Crystal structure of bismuth vanadate. Taken from ICSD record #33243 (1983). Note that the structure was originally reported in a non-standard setting (the monoclinic angle is set to gamma). To make more compatible with the lattice symmetry in VASP, the cell was transformed into a standard C2/C setting (the cell volume remains unchanged, but the monoclinic angle becomes beta). In some publications, the angles of gamma and beta are erroneously switched. 
 
 #####Used in
@@ -12,7 +12,7 @@ Crystal structure of bismuth vanadate. Taken from ICSD record #33243 (1983). Not
 
 
 Kesterites
-=====
+------
 Crystal structures for the kesterite and stannite forms of Cu2ZnSnS4 (CZTS). The structures were optimised using the PW91 (2009 data) or PBEsol (2015 data) exchange-correlation functional. Note that these files correspond to the conventional unit cells (16 atoms per cell), while a primitive cell (8 atoms per cell) also exists. 
 
 #####Used in
@@ -22,7 +22,7 @@ Crystal structures for the kesterite and stannite forms of Cu2ZnSnS4 (CZTS). The
 
 
 Spinels
-=====
+------
 Normal and inverse spinel structures (fcc primitive unit cells). The normal spinel structure is an ordered lattice of A(tetrahedral)B(octahedral)2O4, while the inverse spinel structure is a disordered lattice of B(tetrahedral)AB(octahedral)O4. Site disorder in the inverse structure requires special treatment: we generated a representative structure using the SQS method (see http://www.brown.edu/Departments/Engineering/Labs/avdw/atat/).
 
 #####Used in
