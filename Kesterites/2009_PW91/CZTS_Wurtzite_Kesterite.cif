@@ -1,0 +1,48 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_pd_phase_name                         'Hexagonal Kesterite CZTS'
+_cell_length_a                         7.70770
+_cell_length_b                         6.66300
+_cell_length_c                         9.98240
+_cell_angle_alpha                      90
+_cell_angle_beta                       140.51019
+_cell_angle_gamma                      90
+_symmetry_space_group_name_H-M         'P 1'
+_symmetry_Int_Tables_number            1
+
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Cu1        1.0     0.999430      0.833720      0.999070     Biso  1.000000 Cu
+   Cu2        1.0     0.999430      0.166280      0.499070     Biso  1.000000 Cu
+   Cu3        1.0     0.247770      0.334120      0.997990     Biso  1.000000 Cu
+   Cu4        1.0     0.247770      0.665880      0.497990     Biso  1.000000 Cu
+   Zn1        1.0     0.499840      0.832200      0.999960     Biso  1.000000 Zn
+   Zn2        1.0     0.499840      0.167800      0.499960     Biso  1.000000 Zn
+   Sn1        1.0     0.749920      0.332350      0.000070     Biso  1.000000 Sn
+   Sn2        1.0     0.749920      0.667650      0.500070     Biso  1.000000 Sn
+   S1         1.0     0.139010      0.159570      0.126890     Biso  1.000000 S
+   S2         1.0     0.139010      0.840430      0.626890     Biso  1.000000 S
+   S3         1.0     0.621800      0.163010      0.134150     Biso  1.000000 S
+   S4         1.0     0.621800      0.836990      0.634150     Biso  1.000000 S
+   S5         1.0     0.887300      0.679080      0.133690     Biso  1.000000 S
+   S6         1.0     0.887300      0.320920      0.633690     Biso  1.000000 S
+   S7         1.0     0.356930      0.665540      0.110880     Biso  1.000000 S
+   S8         1.0     0.356930      0.334460      0.610880     Biso  1.000000 S
