@@ -1,0 +1,40 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+_pd_phase_name                         'Bi1 V1 O4'
+_cell_length_a                         7.25320
+_cell_length_b                         11.70200
+_cell_length_c                         5.09600
+_cell_angle_alpha                      90
+_cell_angle_beta                       134.23399
+_cell_angle_gamma                      90
+_symmetry_space_group_name_H-M         'C 2/c  '
+_symmetry_Int_Tables_number            15
+
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x, -y, -z'
+   '-x, y, -z+1/2'
+   'x, -y, z+1/2'
+   'x+1/2, y+1/2, z'
+   '-x+1/2, -y+1/2, -z'
+   '-x+1/2, y+1/2, -z+1/2'
+   'x+1/2, -y+1/2, z+1/2'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_thermal_displace_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Bi1      1.0    0            0.63370      0.25000     Biso  1.000  Bi
+   V1       1.0    0            0.13520      0.25000     Biso  1.000  V
+   O1       1.0    0.85100      0.21000      0.35700     Biso  1.000  O
+   O1       1.0    0.74200      0.45100      0.12100     Biso  1.000  O
