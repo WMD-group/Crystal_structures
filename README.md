@@ -2,6 +2,7 @@
 
 A collection of crystal structures from first-principles simulations of functional materials.
 
+
 BiVO4
 ------
 Crystal structure of bismuth vanadate. Taken from ICSD record #33243 (1983). Note that the structure was originally reported in a non-standard setting (the monoclinic angle is set to gamma). To make more compatible with the lattice symmetry in VASP, the cell was transformed into a standard C2/C setting (the cell volume remains unchanged, but the monoclinic angle becomes beta). In some publications, the angles of gamma and beta are erroneously switched. 
@@ -20,6 +21,7 @@ Crystal structures for the kesterite and stannite forms of Cu2ZnSnS4 (CZTS). The
 - "Wurtzite-derived polytypes of kesterite and stannite quaternary chalcogenide semiconductors" [Physical Review B (2010)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.82.195203)
 - "Ab initio thermodynamic model of Cu2ZnSnS4" [Journal of Materials Chemistry A (2014)](http://pubs.rsc.org/en/Content/ArticleLanding/2014/TA/c4ta00892h#!divAbstract)
 
+
 MOFs
 ------
 Crystal structures of a range of metal-organic frameworks. 
@@ -29,6 +31,12 @@ Crystal structures of a range of metal-organic frameworks.
 #####Used in
 - "Engineering the Optical Response of the Titanium-MIL-125 Metal–Organic Framework through Ligand Functionalization" [Journal of the American Chemical Society (2013)](http://pubs.acs.org/doi/abs/10.1021/ja405350u) 
 - "Photostimulated Reduction Processes in a Titania Hybrid Metal–Organic Framework" [ChemPhysChem (2010)](http://onlinelibrary.wiley.com/doi/10.1002/cphc.201000306/abstract)
+
+
+Perovskites
+------
+Organic-inorganic perovskite structured materials are covered in their [own repository](https://github.com/WMD-Bath/Hybrid-perovskites).
+
 
 Spinels
 ------
