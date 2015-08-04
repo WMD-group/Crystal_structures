@@ -32,6 +32,13 @@ Crystal structures of a range of metal-organic frameworks.
 - "Engineering the Optical Response of the Titanium-MIL-125 Metal–Organic Framework through Ligand Functionalization" [Journal of the American Chemical Society (2013)](http://pubs.acs.org/doi/abs/10.1021/ja405350u) 
 - "Photostimulated Reduction Processes in a Titania Hybrid Metal–Organic Framework" [ChemPhysChem (2010)](http://onlinelibrary.wiley.com/doi/10.1002/cphc.201000306/abstract)
 
+###### A section of PBEsol optimised structures including COF-1M, CPO-27/MOF-74, HKUST-1, Zn2-TTFTB, Cd2-TTFTB, MOF-5, UiO-66 and UiO-67. 
+
+#####Used in
+- "Chemical principles underpinning the performance of the metal–organic framework HKUST-1" [Chemical Science (2015)](http://pubs.rsc.org/en/Content/ArticleLanding/2015/SC/C5SC01489A#!divAbstract) 
+- "Cation-Dependent Intrinsic Electrical Conductivity in Isostructural Tetrathiafulvalene-Based Microporous Metal−Organic Frameworks" [Journal of the American Chemical Society (2015)](http://pubs.acs.org/doi/abs/10.1021/ja512437u)
+- "Electronic Chemical Potentials of Porous Metal–Organic Frameworks" [Journal of the American Chemical Society (2014)](http://pubs.acs.org/doi/full/10.1021/ja4110073)
+
 
 Perovskites
 ------
