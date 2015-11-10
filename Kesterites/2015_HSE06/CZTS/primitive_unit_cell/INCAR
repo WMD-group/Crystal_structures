@@ -1,0 +1,78 @@
+SYSTEM = CZTS 
+
+!Start Parameters:
+ NWRITE = 2        (Medium-level output information)   
+ ISTART = 1        (Read existing wavefunction) 
+ INIWAV = 1        (Random initial wavefunction)
+ !!ICORELEVEL = 1    (Print corelevels in OUTCAR)
+ !!ICHARG =  11    (Non-selfconsistent: band structures)
+ !!NELECT = 352    (Number of electrons: charged cells)
+ !!NBANDS = 70    (Increase no. bands)
+ !!ALGO = GW0 ; NOMEGA = 50
+
+!Parallel Options: 
+ !!LPLANE = .TRUE.   (Real space distribution)
+ !!NPAR   = 1        (Max is no. nodes)
+
+!Electronic Relaxation:
+ PREC  = Accurate  (Precision level)
+ LREAL = Auto    (Projection operators: automatic)
+ !!ALGO  = FAST      (Elect. algorithm: 38/48)
+ ENMAX = 550 eV    (Plane-wave cutoff) 
+ NELM  = 40        (Max number of SCF steps)   
+ EDIFF = 1E-05     (SCF convergence) 
+ ISPIN =  1        (Closed shell)
+ GGA   =  PE       (PBE exchange-correlation)
+
+!Ionic Relaxation:
+ EDIFFG =  -0.001    (Ionic convergence)
+ NSW    =      5    (Max ionic steps) 
+ NBLOCK =      1     (Update XDATCAR/DOSCAR every X steps) 
+ IBRION =      1     (Ions: 0-MD, 1-Quasi-New, 2-CG)
+ ISIF   =      3     (Stress/Relaxation: 2-Ions, 3-Shape/Ions/V, 7-Vol)
+ ISYM   =      3      (Symmetry: Use all, 0: none) 
+ ISMEAR =      0     (Gaussian smearing, Metals:1, MP)
+ SIGMA  =      0.05  (Smearing in eV, Metals:0.2)
+
+!Miscellaneous:
+ LORBIT    =   10     (PAW radii for projected DOS)
+ !!LOPTICS = .TRUE.     (Output OPTIC file)
+ NEDOS   =   1000    (Increase DOSCAR points)
+ !!LVTOT   = .TRUE.   (Electrostatic potential)
+ !!LELF    = .TRUE.   (Localization function)
+ 
+!Decomposed Charge Density:
+ !!LPARD = .TRUE. (Generate PARCHG)
+ !!EINT  = -10 0  (Energy range)
+ !!NBMOD =  -3    (With reference to Ef)
+ !!KPUSE =  1     (Over kpoints)
+ !!IBAND =  20    (Over bands)
+ 
+!Magnetic Calculations:
+ !!MAGMOM = 5 0      (Initial magnetic mom. each ion)
+ !!NUPDOWN = -1      (Enforce spin multiplet)
+ !!LSORBIT = .TRUE.  (Spin-orbit coupling)
+
+!DFT+U Calculations:
+ !!LDAU = .TRUE.    (Activate DFT+U)
+ !!LDATYPE = 2      (Dudarev, only U-J matters)
+ !!LDAUL = 2 -1     (Orbital of each species, -1:none) 
+ !!LDAUU = 2  0     (U for each species)
+ !!LDAUJ = 0  0     (J for each species) 
+ !!LMAXMIX  =  4      (Mixing cuttoff: 4-d,6-f)
+
+!Hybrid-DFT Calculations: 
+ LHFCALC = .TRUE. (Activate HF)
+ PRECFOCK = FAST
+ NKRED   =   2    (Reduce k-grid: even k only)
+ !!ALGO    = DAMPED (Dampen: IALGO=53: Metals/Insulators)
+ ALGO    = ALL    (IALGO=58: Insulators)
+ TIME    = 0.30   (Timestep for IALGO5X)  
+ HFLMAX  = 4      (Max. quantum number: 4d,6f) 
+ HFSCREEN= 0.207  (Switch to screened exchange-HSE06)
+ AEXX    = 0.25   (25% HF exchange --> PBE0)
+
+!Molecular Dynamics:
+ !!TEBEG  =     100    (Start temp K)
+ !!TEEND  =     100    (End temp K)
+ !!SMASS  =       0    (Canonical ensemble)

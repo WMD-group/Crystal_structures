@@ -1,0 +1,7 @@
+A full geometry optimisation (ISIF=3 to allow volume relaxation as well as ionic relaxation) of a CZTS primitive unit cell
+
+This primitive unit cell is triclinic, axis is not orthogonal
+
+Parameters used in optimisation:
+KPOINTS 6x6x6
+ENCUT 550
