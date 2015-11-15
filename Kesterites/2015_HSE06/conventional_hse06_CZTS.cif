@@ -1,0 +1,48 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_pd_phase_name                         'Cu2ZnSnS4 (l.c. = a, z3 = c /2a) - HSE'
+_cell_length_a                         5.43770
+_cell_length_b                         5.43770
+_cell_length_c                         10.85670
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_symmetry_space_group_name_H-M         'P 1'
+_symmetry_Int_Tables_number            1
+
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   S1         1.0     0.758700      0.254750      0.877870     Biso  1.000000 S
+   S2         1.0     0.241300      0.745250      0.877870     Biso  1.000000 S
+   S3         1.0     0.254750      0.241300      0.122130     Biso  1.000000 S
+   S4         1.0     0.745250      0.758700      0.122130     Biso  1.000000 S
+   S5         1.0     0.258700      0.754750      0.377870     Biso  1.000000 S
+   S6         1.0     0.741300      0.245250      0.377870     Biso  1.000000 S
+   S7         1.0     0.754750      0.741300      0.622130     Biso  1.000000 S
+   S8         1.0     0.245250      0.258700      0.622130     Biso  1.000000 S
+   Cu1        1.0     0.000000      0.000000      0.000000     Biso  1.000000 Cu
+   Cu2        1.0     0.500000      0.500000      0.500000     Biso  1.000000 Cu
+   Cu3        1.0     0.000000      0.500000      0.750000     Biso  1.000000 Cu
+   Cu4        1.0     0.500000      0.000000      0.250000     Biso  1.000000 Cu
+   Zn1        1.0     0.500000      0.500000      0.000000     Biso  1.000000 Zn
+   Zn2        1.0     0.000000      0.000000      0.500000     Biso  1.000000 Zn
+   Sn1        1.0     0.500000      0.000000      0.750000     Biso  1.000000 Sn
+   Sn2        1.0     0.000000      0.500000      0.250000     Biso  1.000000 Sn

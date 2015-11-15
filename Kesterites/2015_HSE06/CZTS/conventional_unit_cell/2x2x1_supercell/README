@@ -1,6 +1,0 @@
-2x2x1 supercell of the conventional unit cell was constructed to give a 64 atom supercell
-
-Geometry relaxation (allowing just the relaxation of ions with ISIF=2) was performed using the following parameters:
-
-KPOINTS 333
-ENCUT 550

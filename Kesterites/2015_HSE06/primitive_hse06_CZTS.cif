@@ -7,12 +7,12 @@
 data_VESTA_phase_1
 
 
-_pd_phase_name                         'Cu2ZnSnS4 (l.c. = a, z3 = c /2a)      '
-_cell_length_a                         5.43768
-_cell_length_b                         5.43768
-_cell_length_c                         6.65214
-_cell_angle_alpha                      65.87574
-_cell_angle_beta                       65.87574
+_pd_phase_name                         'Cu2ZnSnS4 (l.c. = a, z3 = c /2a) - HSE'
+_cell_length_a                         5.37422
+_cell_length_b                         5.37422
+_cell_length_c                         6.58368
+_cell_angle_alpha                      65.91153
+_cell_angle_beta                       65.91153
 _cell_angle_gamma                      90
 _symmetry_space_group_name_H-M         'P 1'
 _symmetry_Int_Tables_number            1
@@ -30,11 +30,11 @@ loop_
    _atom_site_adp_type
    _atom_site_B_iso_or_equiv
    _atom_site_type_symbol
-   Cu1        1.0    -0.000000      0.000000      0.000000     Biso  1.000000 Cu
+   Cu1        1.0     0.000000      0.000000      0.000000     Biso  1.000000 Cu
    Cu2        1.0     0.750000      0.250000      0.500000     Biso  1.000000 Cu
    Zn1        1.0     0.500000      0.500000      0.000000     Biso  1.000000 Zn
    Sn1        1.0     0.250000      0.750000      0.500000     Biso  1.000000 Sn
-   S1         1.0     0.119171      0.132618      0.244261     Biso  1.000000 S
-   S2         1.0     0.636568      0.623121      0.244261     Biso  1.000000 S
-   S3         1.0     0.867382      0.363432      0.755739     Biso  1.000000 S
-   S4         1.0     0.376879      0.880829      0.755739     Biso  1.000000 S
+   S1         1.0     0.117772      0.133901      0.243593     Biso  1.000000 S
+   S2         1.0     0.638635      0.622506      0.243593     Biso  1.000000 S
+   S3         1.0     0.866099      0.361365      0.756407     Biso  1.000000 S
+   S4         1.0     0.377494      0.882228      0.756407     Biso  1.000000 S
