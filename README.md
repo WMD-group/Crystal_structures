@@ -21,7 +21,7 @@ Crystal structure of bismuth vanadate. Taken from ICSD record #33243 (1983). Not
 
 [Kesterites](Kesterites)
 ------
-Crystal structures for the kesterite and stannite forms of Cu2ZnSnS4 (CZTS). The structures were optimised using the PW91 (2009 data) or PBEsol (2015 data) exchange-correlation functional. Note that these files correspond to the conventional unit cells (16 atoms per cell), while a primitive cell (8 atoms per cell) also exists. 
+Crystal structures for the kesterite and stannite forms of Cu2ZnSnS4 (CZTS). The structures were optimised using the PW91 (2009 data) or PBEsol / HSE06 (2015 data) exchange-correlation functional. Note that most of these files correspond to the conventional unit cells (16 atoms per cell), while a primitive cell (8 atoms per cell) also exists. 
 
 #####Used in
 - "Crystal and electronic band structure of Cu2ZnSnX4 (X=S and Se) photovoltaic absorbers: First-principles insights" [Applied Physics Letters (2009)](http://scitation.aip.org/content/aip/journal/apl/94/4/10.1063/1.3074499)
