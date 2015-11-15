@@ -1,6 +1,13 @@
 # Crystal_Structures
 
-A collection of crystal structures from first-principles simulations of functional materials.
+A collection of crystal structures optimised from first-principles simulations of functional materials.
+
+Antimony Sulfides
+------
+Crystal structures of Sb2S3, Cs2Sb8S13 and (CH3NH3)2Sn8S13 optimised using PBEsol.
+
+#####Used in
+- "Assessment of Hybrid Organic-Inorganic Antimony Sulfides for Earth-Abundant Photovoltaic Applications" (Under Review)
 
 
 BiVO4
