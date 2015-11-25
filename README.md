@@ -4,7 +4,7 @@ A collection of crystal structures optimised from first-principles simulations o
 
 [V-VI-VII](V-VI-VII)
 ------
-Crystal structures of Sb2S3, Cs2Sb8S13 and (CH3NH3)2Sn8S13 optimised using PBEsol.
+Crystal structures of Sb-based photoactive ferroelectric semiconductors using PBEsol.
 #####Used in
 - "Ferroelectric materials for solar energy conversion: photoferroics revisited" [Energy & Environmental Science (2015)](http://pubs.rsc.org/en/Content/ArticleLanding/2015/EE/C4EE03523B#!divAbstract)
 
