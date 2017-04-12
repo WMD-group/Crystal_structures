@@ -1,0 +1,52 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  'Sn2S3                                 '
+_cell_length_a                         8.81069
+_cell_length_b                         3.76636
+_cell_length_c                         13.81297
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Sn1        1.0     0.167212      0.250000      0.051458     Biso  1.000000 Sn
+   Sn2        1.0     0.832788      0.750000      0.948542     Biso  1.000000 Sn
+   Sn3        1.0     0.332788      0.750000      0.551458     Biso  1.000000 Sn
+   Sn4        1.0     0.667212      0.250000      0.448542     Biso  1.000000 Sn
+   Sn5        1.0     0.490955      0.750000      0.168870     Biso  1.000000 Sn
+   Sn6        1.0     0.509045      0.250000      0.831130     Biso  1.000000 Sn
+   Sn7        1.0     0.009045      0.250000      0.668870     Biso  1.000000 Sn
+   Sn8        1.0     0.990955      0.750000      0.331130     Biso  1.000000 Sn
+   S1         1.0     0.982629      0.750000      0.108862     Biso  1.000000 S
+   S2         1.0     0.017371      0.250000      0.891138     Biso  1.000000 S
+   S3         1.0     0.517371      0.250000      0.608862     Biso  1.000000 S
+   S4         1.0     0.482629      0.750000      0.391138     Biso  1.000000 S
+   S5         1.0     0.343044      0.750000      0.992461     Biso  1.000000 S
+   S6         1.0     0.656956      0.250000      0.007539     Biso  1.000000 S
+   S7         1.0     0.156956      0.250000      0.492461     Biso  1.000000 S
+   S8         1.0     0.843044      0.750000      0.507539     Biso  1.000000 S
+   S9         1.0     0.291022      0.250000      0.214510     Biso  1.000000 S
+   S10        1.0     0.708978      0.750000      0.785490     Biso  1.000000 S
+   S11        1.0     0.208978      0.750000      0.714510     Biso  1.000000 S
+   S12        1.0     0.791022      0.250000      0.285490     Biso  1.000000 S

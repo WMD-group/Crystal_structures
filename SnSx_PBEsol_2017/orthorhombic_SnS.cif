@@ -1,0 +1,40 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  'S   Sn                                '
+_cell_length_a                         4.25079
+_cell_length_b                         11.08248
+_cell_length_c                         3.97841
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   S1         1.0     0.472622      0.853292      0.250000     Biso  1.000000 S
+   S2         1.0     0.527378      0.146708      0.750000     Biso  1.000000 S
+   S3         1.0     0.972622      0.646708      0.750000     Biso  1.000000 S
+   S4         1.0     0.027378      0.353292      0.250000     Biso  1.000000 S
+   Sn1        1.0     0.114793      0.118125      0.250000     Biso  1.000000 Sn
+   Sn2        1.0     0.885207      0.881875      0.750000     Biso  1.000000 Sn
+   Sn3        1.0     0.614793      0.381875      0.750000     Biso  1.000000 Sn
+   Sn4        1.0     0.385207      0.618125      0.250000     Biso  1.000000 Sn
