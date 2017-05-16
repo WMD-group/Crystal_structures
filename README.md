@@ -93,3 +93,12 @@ Site disorder in the inverse structure requires special treatment: we generated 
 - "Structural, magnetic, and electronic properties of the Co-Fe-Al oxide spinel system: Density-functional theory calculations" [Physical Review B (2007)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.76.165119)
 
 - "Ternary cobalt spinel oxides for solar driven hydrogen production: Theory and experiment" [Energy and Environmental Science (2009)](http://pubs.rsc.org/en/Content/ArticleLanding/2009/EE/B822903A#!divAbstract)
+
+
+[Sulfosalts](Sulfosalts)
+------
+Structure of three sulfosalt materials with ion coordinates relaxed with HSE06: enargite (Cu<sub>3</sub>AsS<sub>4</sub>), stephanite (Ag<sub>5</sub>SbS<sub>4</sub>) and bournonite (CuPbSbS<sub>3</sub>).
+
+##### Used in
+
+- ??
