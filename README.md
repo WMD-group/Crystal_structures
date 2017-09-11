@@ -1,3 +1,5 @@
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+
 # Crystal Structures
 
 A collection of crystal structures optimised from first-principles calculations.
@@ -22,7 +24,7 @@ Crystal structures of Sb<sub>2</sub>S<sub>3</sub>, Cs<sub>2</sub>Sb<sub>8</sub>S
 - "Assessment of Hybrid Organic-Inorganic Antimony Sulfides for Earth-Abundant Photovoltaic Applications" [Journal of Physical Chemistry Letters (2015)](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.5b02555)
 
 
-[BiVO4](BiVO4)
+[BiVO<sub>4</sub>](BiVO4)
 ------
 Crystal structure of bismuth vanadate. Taken from ICSD record #33243 (1983). Note that the structure was originally reported in a non-standard setting (the monoclinic angle is set to gamma). To make more compatible with the lattice symmetry in VASP, the cell was transformed into a standard C2/c setting (the cell volume remains unchanged, but the monoclinic angle becomes beta). In some publications, the angles of gamma and beta are erroneously switched. 
 
@@ -101,4 +103,4 @@ Structure of three sulfosalt materials with ion coordinates relaxed with HSE06: 
 
 ##### Used in
 
-- ??
+- "Candidate photoferroic absorber materials for thin- film solar cells from naturally occurring minerals: enargite, stephanite, and bournonite" [Sustainable Energy & Fuels (2017)](http://pubs.rsc.org/en/Content/ArticleLanding/2017/SE/C7SE00277G#!divAbstract) 
