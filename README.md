@@ -34,6 +34,10 @@ Crystal structure of bismuth vanadate. Taken from ICSD record #33243 (1983). Not
 
 - "The nature of electron lone pairs in BiVO<sub>4</sub>" [Applied Physics Letters (2011)](http://scitation.aip.org/content/aip/journal/apl/98/21/10.1063/1.3593012)
 
+[Bi<sub>2</sub>WO<sub>6</sub>](Bi2WO6)
+------
+Crystal structure of bismuth tungstate. Relaxation were performed using PBEsol function as implemented in VASP package. This is the conventional and primitive cell of the material. 
+
 
 [Kesterites](Kesterites)
 ------
